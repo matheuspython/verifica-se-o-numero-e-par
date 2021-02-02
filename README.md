@@ -1,2 +1,2 @@
-# projeto-para-praticar-arrays
-treinando manipulação de arrays por exemplo com reduce map fillter foreach
+# verifica-se-o-numero-e-par
+projeto para praticar javascript na parte matematica
